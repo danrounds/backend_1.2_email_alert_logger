@@ -1,4 +1,4 @@
-### Emai-logger middleware
+# Emai-logger middleware
 
 Server setup where any resource-request generates an error. 2 of 3 errors generate relevant emails.
 
